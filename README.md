@@ -1,16 +1,14 @@
-## Hi there 👋
+## Lucas
+_he/him_
 
-<!--
-**llarmor1/llarmor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://open.spotify.com/user/kp5wk4u8vu91gm95x7v7tqarh" ><img src="https://img.shields.io/badge/Spotify-lucas-1db954?style=flat&logo=spotify" /> </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on my [page](https://llarmor1.github.io/)
+
+<p align="center">
+  <b>Learning</b><br>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,php" alt="Curr Learning" />
+</p>
