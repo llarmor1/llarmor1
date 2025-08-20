@@ -6,7 +6,7 @@ _he/him_
   <a href="https://open.spotify.com/user/kp5wk4u8vu91gm95x7v7tqarh" ><img src="https://img.shields.io/badge/Spotify-lucas-1db954?style=flat&logo=spotify" /> </a>
 </p>
 
-Currently working on my [page](https://llarmor1.github.io/)
+
 
 <p align="center">
   <b>Learning</b><br>
